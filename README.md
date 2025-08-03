@@ -1,13 +1,9 @@
 <p align="left"><h1 align="center">Hi, I'm Liron 👋🏽</h1><br><p>Passionate software engineer | Lifelong Learner | I’m as passionate about inner growth as I am about pushing the boundaries of what technology can do</p><br><br><h2>👨🏽‍💻 About Me</h2><br><br><ul><br>  <li>🔭 I’m currently working on: <b>Intuit as a software engineer</b></li><br>  <li>🌱 Embracing Kaizen: <b>Focusing in daily growth, both technically and  personally</b></li><br>  <li>💬 Ask me about: <b>Web development, exploring the universe, and spirituality</b></li><br>  <li>📫 How to reach me: <b><a href=“mailto:lironwassa@gmail.com“>Email</a> / <a href=“https://www.linkedin.com/in/liron-wassa-583942194/“ target=“_blank”>LinkedIn</a></b></li><br>  <li>⚡ Fun fact: <b>I believe coffee is best enjoyed while contemplating the cosmos</b></li><br></ul></p>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Liron-Wassa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liron-Wassa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -77,11 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
-
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3RxYXR6bjQyZjE1aG93ZnVsZnhmNWR0MjlvMDV2N3FhNzBubzM1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PmLSyM6uVcY0na0yiZ/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -90,10 +82,6 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Liron-Wassa/Liron-Wassa/output/snake.svg" alt="Snake animation" />
-
-###
